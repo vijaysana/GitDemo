@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="11" total="16" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="products" duration-ms="82" started-at="2020-07-17T14:30:52 IST" finished-at="2020-07-17T14:30:53 IST">
+    <groups>
+      <group name="Smoke">
+        <method signature="testing3.upcomingwebinars()[pri:0, instance:testvijay.testing3@6e0e048a]" name="upcomingwebinars" class="testvijay.testing3"/>
+        <method signature="testing4.upcomingseminars()[pri:0, instance:testvijay.testing4@5bc79255]" name="upcomingseminars" class="testvijay.testing4"/>
+        <method signature="testing5.checklists()[pri:0, instance:testvijay.testing5@47ef968d]" name="checklists" class="testvijay.testing5"/>
+        <method signature="testng1.demo1()[pri:0, instance:testvijay.testng1@7fac631b]" name="demo1" class="testvijay.testng1"/>
+        <method signature="testng2.demo3()[pri:0, instance:testvijay.testng2@5b87ed94]" name="demo3" class="testvijay.testng2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="groups" duration-ms="82" started-at="2020-07-17T14:30:52 IST" finished-at="2020-07-17T14:30:53 IST">
+      <class name="testvijay.testing5">
+        <test-method status="PASS" signature="checklists()[pri:0, instance:testvijay.testing5@47ef968d]" name="checklists" duration-ms="1" started-at="2020-07-17T14:30:53 IST" finished-at="2020-07-17T14:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklists -->
+      </class> <!-- testvijay.testing5 -->
+      <class name="testvijay.testng2">
+        <test-method status="PASS" signature="demo3()[pri:0, instance:testvijay.testng2@5b87ed94]" name="demo3" duration-ms="0" started-at="2020-07-17T14:30:53 IST" finished-at="2020-07-17T14:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- testvijay.testng2 -->
+      <class name="testvijay.testing3">
+        <test-method status="PASS" signature="upcomingwebinars()[pri:0, instance:testvijay.testing3@6e0e048a]" name="upcomingwebinars" duration-ms="2" started-at="2020-07-17T14:30:53 IST" finished-at="2020-07-17T14:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upcomingwebinars -->
+      </class> <!-- testvijay.testing3 -->
+      <class name="testvijay.testng1">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:testvijay.testng1@7fac631b]" name="demo1" duration-ms="13" started-at="2020-07-17T14:30:53 IST" finished-at="2020-07-17T14:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- testvijay.testng1 -->
+      <class name="testvijay.testing4">
+        <test-method status="PASS" signature="upcomingseminars()[pri:0, instance:testvijay.testing4@5bc79255]" name="upcomingseminars" duration-ms="3" started-at="2020-07-17T14:30:53 IST" finished-at="2020-07-17T14:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upcomingseminars -->
+      </class> <!-- testvijay.testing4 -->
+    </test> <!-- groups -->
+  </suite> <!-- products -->
+</testng-results>

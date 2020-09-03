@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="products">
+  <test name="groups">
+    <groups>
+      <run>
+        <include name="Smoke"></include>
+      </run>
+    </groups>
+    	<classes>
+    		<class name="testvijay.testng1"/>
+    		<class name="testvijay.testng2"/>
+    		<class name="testvijay.testing3"/>
+    		<class name="testvijay.testing4"/>
+    		<class name="testvijay.testing5"/>
+    	</classes>
+    
+  </test>
+</suite>
