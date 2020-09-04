@@ -20,6 +20,8 @@ public class testing3 {
 		System.out.println("after suite execution5");
 		System.out.println("after suite execution6");
 		System.out.println("after suite execution7");
+		System.out.println("develop1");
+		System.out.println("develop2");
 	}
 	
 	@AfterTest
