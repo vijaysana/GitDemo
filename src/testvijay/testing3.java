@@ -13,6 +13,8 @@ public class testing3 {
 	
 	{
 		System.out.println("after suite execution");
+		System.out.println("after suite execution1");
+		System.out.println("after suite execution2");
 	}
 	
 	@AfterTest
