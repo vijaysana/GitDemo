@@ -16,6 +16,10 @@ public class testing3 {
 		System.out.println("after suite execution1");
 		System.out.println("after suite execution2");
 		System.out.println("after suite execution3");
+		System.out.println("after suite execution4");
+		System.out.println("after suite execution5");
+		System.out.println("after suite execution6");
+		System.out.println("after suite execution7");
 	}
 	
 	@AfterTest

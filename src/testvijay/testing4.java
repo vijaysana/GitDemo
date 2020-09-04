@@ -17,6 +17,8 @@ public class testing4 {
 	{
 		//seminars
 		System.out.println("upcoming");
+		System.out.println("upcoming1");
+		System.out.println("upcoming2");
 	}
 	
 	@Test
